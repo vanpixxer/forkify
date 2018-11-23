@@ -1,0 +1,29 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "App for finding recipes online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanpixxer/forkify.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "ES6",
+    "NPM",
+    "Babel",
+    "Webpack"
+  ],
+  "author": "Darrell Chaddock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanpixxer/forkify/issues"
+  },
+  "homepage": "https://github.com/vanpixxer/forkify#readme",
+  "devDependencies": {
+    "webpack": "^4.26.0"
+  }
+}
